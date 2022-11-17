@@ -46,6 +46,9 @@ Mogo is actively taking steps to reduce carbon footprint by directing funds to p
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stack share to find this information.)
+Some of the technology used my Mogo include HTML5, CSS3, JavaScript for front end development.
+MySQL is used to manage data information. 
+AWS and Docker are used for cloud storage. 
 
 
 ## Landscape:
@@ -68,6 +71,7 @@ Financial Technology has brought forth a faster, secure and less time consuming 
 Some of the major companies in this domain are:
 *  Borrowell(Fintech lending company), 
 * Wealthsimple(Provides a saving and investment platform) 
+* Lending Loop (Fintech company providing lending to small businesses)
 
 ## Results
 
@@ -75,17 +79,69 @@ Some of the major companies in this domain are:
 Mogo has accelerated and further enhanced products to enable them support their growing member base. Product enhancements include Mogo Trade, automatic approval for account opening,  instant funding and ability to receive in-app monthly statements. 
 Mogo's total member base has since increased by approximately 18% from 1695,000 in June 2021 to 2007,000 in June 2022
 In alignment to help Canadians achieve financial freedom while solving climate change, Mogo announced that it has reached one million trees milestone. 
+With climate change included in their business model, Mogo has been able to provide a Financial platform that provides its customers with the ability to take climate change action while making transactions. This has not only increased Mogos Member base but also addressed a critical issue the world is currently facing. 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Financial Technology companies like Mogo that provide automated banking services to customers use Customer Onboarding and Retention as one of the core metrics to measure success. Other metrics include, Cost of Customer Acquisition which is the cost of acquiring new customers compared against the acquired customers.
+As of Q2 2022, Mogo's total Member base increased by 18% as of June 2022 despite reduced spending on marketing. Mogo saw a 26% increase in revenue including subscriptions and services revenue despite market volatility.
 
 * How is your company performing relative to competitors in the same domain?
+
+Compared to Borrowell, WealthSimple and Lending Loop, Mogo Financial provides a wide variety of products and services to its Members. 
+Borrowell is primarily focused on providing credit score and lending, WealthSimple is primarily focused on savings, registered accounts and investing and Lending Loop is mainly focused on providing loans to small businesses. 
+Mogo is providing not only providing credit score tracking and lending but it is also provides a digital spending account, digital mortgage, identity fraud protection, trading platform and  the ability to trade digital currency. 
+Mogo is also publicly listed which has enabled it to increase revenue for expansion. 
+Based on product provision, Mogo ranks top among its competitors. 
+With that in mind we have seen companies like Borrowell and WealthSimple grow rapidly and increase in market size. 
+Both WealthSimple and Borrowell are highly specialised in the services they offer making them the go to place for anyone looking for that particular service. For instance, Borrowell offers highly in depth and detailed credit score report with advice on how one can increase their credit. Borrowell also tailors financial recommendations to the customers needs plus transparent loan interest rate. These features give Borrowell an advantage in the FinTech domain. WealthSimple has a well put together and user friendly trading platform in addition to the availability of registered accounts. This makes WealthSimple a go to for customers that are interested in long term saving and tax advantages. Mogo started offering Registered accounts in 2022. 
+Much as all these companies are in the FinTech domain, they all have a unique way of offering products and catering to specific financial needs. Having said that, the ability for Mogo to offer a variety of products sets it apart from its competitors. 
+
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+One product and service that I would suggest that they added is the ability to make Wills and Power of Attorney(POA). 
+Since Mogo's target market is Millennials (next generation), the following demographic doesn't always see the immediate need of putting a Will together as well as a POA. This important need will always go overlooked by todays generation and yet it is a very crucial part of Financial planning. The younger generation often finds the process of putting a Will/POA together tedious and expensive due to the lawyer fees, time and paperwork involved in putting it all together. 
+
 
 * Why do you think that offering this product or service would benefit the company?
 
+Having Mogo's customers have the ability to make a Will/POA on their platform will be of great benefit in the following ways:
+The customers will have a start to finish banking service. As the customers life changes with time i.e having children and buying a home, the need to protect assets as well as plan for the unexpected also increases. 
+This demographic will appreciate the ease of having their assets planned and looked after under one app. 
+Including this service will not only increase Membership because of the ease but it will also build trust and retention with the company and in turn increasing revenue. 
+Since Climate Change is part of Mogo's business model, offering this service will greatly reduce on the paperwork usually involved in process making contributing to a greener world. 
+Having a Will/POA on file will simplify the process of reconciling bank accounts should anything happen to a customer this can get complicated if it is an online bank account.  
+The addition of this feature will not only simplify this process for the customer but it also extend financial protection to the customers family building trust and potential increasing membership. 
+
 * What technologies would this additional product or service utilize?
+The following technologies can be used in used to aid the addition of Wills/POA on the Mogo platform:
+* Active Record
+* PostgreSQL
+* Ruby on Rails
 
 * Why are these technologies appropriate for your solution?
+These technologies are appropriate when handling large scalable data while providing the appropriate security. 
+Ruby on Rails can be used for its ability to create a high performance platform as well as it easier to detect and rectify any errors. It can be used to administer interactions between modal and view. Ruby on Rails has inbuild security measures and libraries to make coding mush faster and seamless.
+PostgreSQL is a highly stable database management system that makes it dependable for storing data. 
+Active Record can be used for representing data and logic. It stores data in relational database that makes it easy to manipulate and update. 
+
+
+# Ref:
+https://www.crunchbase.com/organization/mogo-finance-technology
+https://en.wikipedia.org/wiki/Mogo_(company)
+http://investors.services.mogo.ca/press-releases/mogo-reports-third-quarter-2022-financial-results#
+https://www.mogo.ca/about-mogo
+https://www.newswire.ca/news-releases/mogo-to-provide-canadians-with-a-secure-and-trusted-way-to-own-cryptocurrencies-including-bitcoin-654075883.html
+https://www.mogo.ca/prepaid-visa-card-canada
+https://www.mogo.ca/free-credit-score-canada
+https://strategyonline.ca/2016/07/14/how-mogo-is-making-the-most-of-its-footprint/
+https://investors.mogo.ca/press-releases/mogo-reports-second-quarter-2022-financial-results
+https://www.wealthrocket.com/banking/borrowell-vs-mogo/
+https://investors.mogo.ca/press-releases/mogo-reports-second-quarter-2022-financial-results#:~:text=Total%20revenue%20increased%2027%25%20over,%25%20margin)%20in%20Q2%202021.
+https://www.mindbowser.com/what-is-ruby-on-rails/
+https://aws.amazon.com/rds/postgresql/what-is-postgresql/
+https://guides.rubyonrails.org/active_record_basics.html#what-is-active-record-questionmark
+https://en.wikipedia.org/wiki/Active_record_pattern
+http://infiniums.com/mogo-2/
+
