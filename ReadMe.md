@@ -1,40 +1,34 @@
-# TITLE
-### CASE STUDY ON MOGO FINANCE TECHNOLOGY INC.
+## CASE STUDY
+
+# MOGO FINANCE TECHNOLOGY INC.
+![image](Mogo-logo.png)
 
 ## Overview and Origin
 
+Mogo Finance Technology Inc is a Vancouver based company founded by brothers David and Gregory Feller in 2003. The brothers identified a crisis with credit card debt at that time and decided to bridge the gap by providing transparent and simple personal loans to costumers. The idea to offer simple and transparent loans to customers has since evolved. Ideas born out of existing financial gaps have since been added to offer it's Members a number of services including blockchain capabilities.  
 
-* Name of company
-Mogo Finance Technology Inc is a Vancouver based company founded by brothers David and Gregory Feller in 2003. The brothers identified a crisis with credit card debt at that time and decided to bridge the gap by providing transparent and simple personal loans to costumers. The idea to offer simple and transparent loans to customers has since evolved. Ideas born out of existing financial gaps have since been added to offer customers a number of services including blockchain capabilities.  
-
-Mogo Finance's core value proposition is to simplify the process for consumers to manage Financial health by combining key FinTech developments.
+**Mogo Finance's core value proposition is to simplify the process for consumers to manage Financial health by combining key FinTech (Financial Technology) developments while contributing to climate change.**
 
 Mongo has raised $263.8M to date with investors including Fortress Investment Group and Difference Group. It completed its IPO on the Toronto Stock Exchange in 2015.
 Mongo closed funding round on Feb 22, 2021 from a Post-IPO Equity round. 
 
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
-
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
-Mogo Financial identified that 64% of Canadians have debt with the most common type being credit card debt. They set out to find ways for Canadians to spend smarter, increase wealth and avoid debt traps like credit cards. 
+With 64% of Canadians in debt and the most common being credit card debt,Mogo set out to find ways for Canadians to spend smarter, increase wealth and avoid debt traps like credit cards. 
 
 
-The company introduced free credit score monitoring on there platform introducing transparency to customers. 
-Canadians with poor credit score or those who are new to Canada might find themselves unable to access loans and if they do they will have a high interest. Mogo is providing loan preapprovals that do not impact a consumers credit score which can be very helpful if the credit score is already struggling. The preapproval takes less than 4 minutes which is significantly less time compared to the average lender. 
+With that in mind Mogo introduced free credit score monitoring on there platform bringing transparency to customers. The idea behind this was to enable Canadians have credit score visibility and understanding of personal credit score and how to improve it or maintain it. 
+Canadians with poor credit score or those new to Canada might find themselves unable to access loans and if they do they will have a high interest. Mogo provides loan preapprovals that do not impact a consumers credit score. This can be very helpful if the credit score is already struggling. This online preapproval takes less than 4 minutes which is significantly less time compared to the average lender which can sometimes take a week or two depending on the process and the advisor working on the file.  
 They offer small fixed term installment loans which are significantly easier and less expensive to pay off compared to credit card debt with compounding interest. These installment loans are flexible and can be paid in full at anytime with no penalty.
+
+
+Alongside small loans Mogo also offers smart mortgages and unique prepaid visa debt card to its customers. Mogo has since evolved to add new products for its customers including Trading Platform, Cryptocurrency, Smart Saving account and Registered Savings account. 
 
  
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-Mogo is a millennial focused brand. Standard banking methods can be time consuming and difficult to navigate in a changing Financial climate. Mogo is making banking more accessible and simplified which is important for today and the fast paced life we are now living. 
+Mogo is a millennial and next Gen focused brand. Standard banking methods can be time consuming and difficult to navigate in a changing Financial climate which is why Mogo is making banking more accessible and simplified which is important for today and the fast paced life we are now living. 
 The introduction of commission free stock trading and blockchain technology to the platform made the company even more attractive to its end users and thus growing the companies market size. 
 Mogo has since surpassed the 2 million member milestone as of June 30, 2022. 
 
@@ -65,12 +59,12 @@ Financial Technology has brought forth a faster, secure and less time consuming 
 * Opening of accounts and loan approvals are now done instantly and in the comfort of your own home.
 * Financial Technology has caused major disruption in the traditional banking system forcing them to lower fees, become more transparent and simplified.
 * FinTech has simplified financial planning. With the use of AI, consumers are able to see spending patterns, savings and cashflow resulting in a future projection   of a customers overall financial health. 
-*The introduction of digital currency has brought about a new wave of banking and exchanging goods and services. 
+* The introduction of digital currency has brought about a new wave of banking and exchanging goods and services. 
 
 * What are the other major companies in this domain?
 Some of the major companies in this domain are:
-*  Borrowell(Fintech lending company), 
-* Wealthsimple(Provides a saving and investment platform) 
+*  Borrowell (Fintech lending company) 
+* WealthSimple (Provides a saving and investment platform) 
 * Lending Loop (Fintech company providing lending to small businesses)
 
 ## Results
@@ -126,22 +120,40 @@ Ruby on Rails can be used for its ability to create a high performance platform 
 PostgreSQL is a highly stable database management system that makes it dependable for storing data. 
 Active Record can be used for representing data and logic. It stores data in relational database that makes it easy to manipulate and update. 
 
+* conclusion 
 
-# Ref:
-https://www.crunchbase.com/organization/mogo-finance-technology
-https://en.wikipedia.org/wiki/Mogo_(company)
-http://investors.services.mogo.ca/press-releases/mogo-reports-third-quarter-2022-financial-results#
-https://www.mogo.ca/about-mogo
-https://www.newswire.ca/news-releases/mogo-to-provide-canadians-with-a-secure-and-trusted-way-to-own-cryptocurrencies-including-bitcoin-654075883.html
-https://www.mogo.ca/prepaid-visa-card-canada
-https://www.mogo.ca/free-credit-score-canada
-https://strategyonline.ca/2016/07/14/how-mogo-is-making-the-most-of-its-footprint/
-https://investors.mogo.ca/press-releases/mogo-reports-second-quarter-2022-financial-results
-https://www.wealthrocket.com/banking/borrowell-vs-mogo/
-https://investors.mogo.ca/press-releases/mogo-reports-second-quarter-2022-financial-results#:~:text=Total%20revenue%20increased%2027%25%20over,%25%20margin)%20in%20Q2%202021.
-https://www.mindbowser.com/what-is-ruby-on-rails/
-https://aws.amazon.com/rds/postgresql/what-is-postgresql/
-https://guides.rubyonrails.org/active_record_basics.html#what-is-active-record-questionmark
-https://en.wikipedia.org/wiki/Active_record_pattern
-http://infiniums.com/mogo-2/
+
+# Reference Links:
+*[Crunchbase](https://www.crunchbase.com/organization/mogo-finance-technology)*
+---
+*[Wikipedia/Mogo](https://en.wikipedia.org/wiki/Mogo_(company))*
+---
+*[Investor Services Mogo Financial Report](http://investors.services.mogo.ca/press-releases/mogo-reports-third-quarter-2022-financial-results#)*
+---
+*[Mogo Website](https://www.mogo.ca/about-mogo)*
+---
+*[Newswire](https://www.newswire.ca/news-releases/mogo-to-provide-canadians-with-a-secure-and-trusted-way-to-own-cryptocurrencies-including-bitcoin-654075883.html)*
+---
+*[Mogo/prepaid visa card](https://www.mogo.ca/prepaid-visa-card-canada)*
+---
+*[Mogo/free credit card score](https://www.mogo.ca/free-credit-score-canada)*
+---
+*[Strategyonline.ca](https://strategyonline.ca/2016/07/14/how-mogo-is-making-the-most-of-its-footprint/)*
+---
+*[Investors.mogo.ca](https://investors.mogo.ca/press-releases/mogo-reports-second-quarter-2022-financial-results)*
+---
+*[wealthrocket.com](https://www.wealthrocket.com/banking/borrowell-vs-mogo/)*
+---
+*[Mogo Q2-2022 financial result](https://investors.mogo.ca/press-releases/mogo-reports-second-quarter-2022-financial-results#:~:text=Total%20revenue%20increased%2027%25%20over,%25%20margin%20in%20Q2%202021)*
+---
+*[Mindblower.com](https://www.mindbowser.com/what-is-ruby-on-rails/)*
+---
+*[aws.amazon.com](https://aws.amazon.com/rds/postgresql/what-is-postgresql/)*
+---
+*[rubyonrails.org](https://guides.rubyonrails.org/active_record_basics.html#what-is-active-record-questionmark)*
+---
+*[wikipidia.org/Active_record_pattern](https://en.wikipedia.org/wiki/Active_record_pattern)*
+---
+*[infinium.com](http://infiniums.com/mogo-2/)*
+---
 
